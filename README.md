@@ -12,7 +12,3 @@ Une marque multinationale vous sollicite pour mener une étude sur la façon don
 * Appliquer la psychologie au design
 * Analyser les usages réels et les synthétiser
 
-## 🎥 Résultats
-
-* [Lien vers l'évaluation](https://www.youtube.com/watch?v=LO6LC4-YEbs)
-
