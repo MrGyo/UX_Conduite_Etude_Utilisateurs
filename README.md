@@ -1,4 +1,4 @@
-# OC - Parcours UX Designer - Projet 3 
+# OC - Parcours UX Designer
 
 ## 📝 Menez une étude utilisateur 
 Une marque multinationale vous sollicite pour mener une étude sur la façon dont les gens boivent du café. La directrice de la marque sait qu'elle veut élargir sa gamme de produits autour du café, mais elle n'est pas encore sûre de la façon dont elle le souhaite le faire. Une agence de UX design vous engage pour réaliser une étude utilisateurs qui permettra de définir la direction à suivre.
