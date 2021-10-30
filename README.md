@@ -1,6 +1,6 @@
 # UX Design
 
-## 🏆 Compétences évaluées 
+## 🏆 Compétences
 * Identifier les enseignements et les limites d'une étude utilisateurs 
 * Identifier les besoins utilisateurs par la conduite d'observations in situ
 * Créer des personas pertinents
