@@ -1,4 +1,4 @@
-# UX Design - Mener une étude utilisateurs
+## UX Design - Mener une étude utilisateurs
 
 ## 🏆 Compétences
 * Identifier les enseignements et les limites d'une étude utilisateurs 
